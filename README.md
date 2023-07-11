@@ -33,7 +33,9 @@ After successfully installing and running the project, you can interact with the
 <br> DELETE /api/products/:id: Deletes a product with the specified ID.
 <br> DELETE /api/tags/:id: Deletes a tag with the specified ID.
 <br> Ensure that you provide the necessary data in the request body or parameters when testing the POST and PUT routes.
+
 # Contribution
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the GitHub repository.
 
 # Technology
 
