@@ -1,7 +1,8 @@
 # E-Commerce Back End
 
 # Preview
-
+View the link below to see how the application functions:
+<br> link: https://drive.google.com/file/d/1aPzRc3KSJZkV8WwNw1z2mTqsNDiN5Aw1/view 
 # Description
 This repository contains the back end implementation for an e-commerce website. The goal of this project is to leverage the latest technologies to develop a robust and competitive e-commerce platform. The back end is built using Express.js, a fast and flexible web application framework for Node.js. Sequelize, a powerful ORM (Object-Relational Mapping) library, is used for managing the database and interacting with it.
 # Installation
