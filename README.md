@@ -38,6 +38,14 @@ After successfully installing and running the project, you can interact with the
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the GitHub repository.
 
 # Technology
+The following technologies and tools are used in this project:
+
+<br>1. Node.js
+<br>2. Express.js
+<br>3. Sequelize
+<br>4. MySQL
+<br>5. Insomnia Core (API testing tool)
+Please refer to the package.json file for a complete list of dependencies and their versions.
 
 # Author 
 https://github.com/nigeldwatkins 
